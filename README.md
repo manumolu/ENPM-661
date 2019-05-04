@@ -1,2 +1,2 @@
 # Path_Planning
-Projects in Path Planning
+Completed Assignments/Projects in ENPM661 (Introduction to Path Planning)
